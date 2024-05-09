@@ -1,0 +1,19 @@
+{
+  "name": "10-svg-logo-maker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "color-name": "^1.1.4",
+    "hex-color-regex": "^1.1.0",
+    "inquirer": "^8.2.4"
+  }
+}
