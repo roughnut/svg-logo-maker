@@ -6,15 +6,13 @@ Challenge is to build a Node.js command-line application that takes in user inpu
 
 [User Story](#user-story) and [Acceptance Criteria](#acceptance-criteria) are below.
 
-Also included below is my [Process & Learnings](#process--learnings) section.
+## Example SVG logo
 
-## Screenshot
-
-![screenshot](path_to_screenshot "link to screenshot")
+![svg logo example](logo.svg "link to example svg logo")
 
 ## Usage
 
-[Github Pages URL](github_pages_url "link to deployed site")
+[Walkthrough video](https://drive.google.com/file/d/1fCQuMiC5yNNVSc6-pqqFJVxtWoAgPXiv/view "link to walkthrough video")
 
 ## User Story
 ```md
@@ -40,5 +38,3 @@ AND the output text "Generated logo.svg" is printed in the command line
 WHEN I open the `logo.svg` file in a browser
 THEN I am shown a 300x200 pixel image that matches the criteria I entered
 ```
-
-## Process & Learnings

@@ -1,4 +1,4 @@
 <svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
-        <polygon points="150,0 50,200 250,200" fill="blue"/>
-        <text x="150" y="135" text-anchor="middle" fill="white" font-size="45">DAM</text>
+        <circle cx="150" cy="100" r="100" fill="black"/>
+        <text x="150" y="115" text-anchor="middle" fill="#fff" font-size="45">PUP</text>
         </svg>
